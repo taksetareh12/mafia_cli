@@ -17,10 +17,10 @@ do local _ = {
   group  = {
     data = "bot/group.json"
   },
-  sudo_users = {
-    202020202, --sudo
-    0,
-    0
+  sudo_users = {317989507
+    , --sudo
+    ,
+    
   },
 robot = {
     010101010,--bot
